@@ -13,7 +13,7 @@ If you find ES-DETR useful in your research, please consider citing our work:
   year={2025}
 }
 
-Figure 5 in the paper is not strictly true, therefore it has been revised as fig3-1.pdf
+**Figure 5 in the paper is not strictly true, therefore it has been revised as fig3-1.pdf**
 
 The datasets we use in this paper can be reached by contacting us: 375004220@qq.com
 
